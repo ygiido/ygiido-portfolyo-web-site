@@ -53,3 +53,4 @@ Modern, hızlı, zümrüt yeşili & biyo-teknoloji karanlık temalı kişisel we
 
 ## 📄 Lisans
 Bu proje açık kaynaklıdır. İstediğiniz gibi özelleştirebilir, kişisel veya profesyonel projelerinizde kullanabilirsiniz.
+
