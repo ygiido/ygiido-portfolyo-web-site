@@ -11,6 +11,29 @@
   
   <b:include data='blog' name='all-head-content'/>
 
+  <!-- Theme Color (Mobil Tarayıcı Başlık Çubuğu Rengi) -->
+  <meta content='#07251D' name='theme-color'/>
+  <meta content='#07251D' name='msapplication-navbutton-color'/>
+  <meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'/>
+
+  <!-- Open Graph Meta Etiketleri -->
+  <meta content='website' property='og:type'/>
+  <meta content='https://kullaniciadi.blogspot.com/' property='og:url'/>
+  <meta content='Portfolyo - Adınız Soyadınız | Kişisel Portfolyo &amp; Projeler' property='og:title'/>
+  <meta content='Bilim, teknoloji ve yaratıcılığın kesiştiği kişisel web sitesi ve portfolyo şablonu.' property='og:description'/>
+  <meta content='https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=1200&amp;h=630&amp;q=85' property='og:image'/>
+  <meta content='1200' property='og:image:width'/>
+  <meta content='630' property='og:image:height'/>
+  <meta content='tr_TR' property='og:locale'/>
+  <meta content='Portfolyo' property='og:site_name'/>
+
+  <!-- Twitter / X Cards -->
+  <meta content='summary_large_image' name='twitter:card'/>
+  <meta content='https://kullaniciadi.blogspot.com/' name='twitter:url'/>
+  <meta content='Portfolyo - Adınız Soyadınız | Kişisel Portfolyo &amp; Projeler' name='twitter:title'/>
+  <meta content='Bilim, teknoloji ve yaratıcılığın kesiştiği kişisel web sitesi ve portfolyo şablonu.' name='twitter:description'/>
+  <meta content='https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=1200&amp;h=630&amp;q=85' name='twitter:image'/>
+
   <!-- Google Fonts &amp; Font Awesome -->
   <link href='https://fonts.googleapis.com' rel='preconnect'/>
   <link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/>
